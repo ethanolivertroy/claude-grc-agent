@@ -8,8 +8,8 @@ version = "0.1.0"
 description = "Multi-framework GRC compliance agent built on the Claude Agent SDK"
 requires-python = ">=3.10"
 dependencies = [
-    "claude-agent-sdk",
-    "anyio",
+    "claude-agent-sdk>=0.2.110",
+    "anyio>=4.12.1",
 ]
 
 [project.scripts]

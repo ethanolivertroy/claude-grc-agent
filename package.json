@@ -21,14 +21,14 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
-    "@anthropic-ai/claude-agent-sdk": "^0.2.29",
-    "zod": "^4.0.0",
-    "fast-glob": "^3.3.2",
-    "fedramp-docs-mcp": "^0.2.2"
+    "@anthropic-ai/claude-agent-sdk": "^0.3.193",
+    "zod": "^4.4.3",
+    "fast-glob": "^3.3.3",
+    "fedramp-docs-mcp": "^0.2.6"
   },
   "devDependencies": {
-    "@types/node": "^22.13.0",
-    "tsx": "^4.20.3",
-    "typescript": "^5.8.3"
+    "@types/node": "^22.19.21",
+    "tsx": "^4.22.4",
+    "typescript": "^5.9.3"
   }
 }
